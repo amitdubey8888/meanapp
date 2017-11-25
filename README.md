@@ -1,1 +1,1 @@
-MEAN App
+MEAN App Boiler Plate
