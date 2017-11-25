@@ -1,1 +1,1 @@
-meanapp
+MEAN App
